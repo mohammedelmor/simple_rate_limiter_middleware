@@ -1,0 +1,15 @@
+{
+  "name": "simple_rate_limiter_middleware",
+  "version": "1.0.0",
+  "description": "A simple rate limiter express middleware implementation using Token Bucket Rate Limiting technique, this is for the sake of experimenting and learning and its not for production, its very far from production-ready module",
+  "main": "index.js",
+  "keywords": [
+    "simple_rate_limiter_middleware"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mohammedelmor/simple_rate_limiter_middleware.git"
+  },
+  "author": "mohammedelmor",
+  "license": "ISC"
+}
